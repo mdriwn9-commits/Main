@@ -18,8 +18,8 @@
   "mainThreadId": "6601227983317461",
   "notesMainThreadId": "",
   "botAccount": {
-    "email": "",
-    "password": "",
+    "email": "bdxrushan@gmail.com",
+    "password": "rushan07",
     "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6.2 Safari/605.1.15",
     "autoUseWhenEmpty": true
   },
@@ -30,34 +30,34 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
-  "prefix": "!",
+  "nickNameBot": "RUSHAN BOT",
+  "prefix": "¡",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
       "enable": true,
       "specificUids": [
-        "100082395531611",
-        "100015168369582"
+        "61590172631255",
+        "61590172631255"
       ]
     }
   },
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
-      "100015168369582"
+      "61590172631255",
+      "61590172631255"
     ]
   },
   "adminBot": [
-    "100082395531611",
-    "100015168369582"
+    "61590172631255",
+    "61590172631255"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100082395531611",
-      "100015168369582"
+      "61590172631255",
+      "61590172631255"
     ]
   },
   "whiteListModeThread": {
@@ -81,7 +81,7 @@
     "port": 8080,
     "passwordProtection": {
       "enable": true,
-      "password": "CYBER"
+      "password": "rushan07"
     }
   },
   "serverUptime": {
