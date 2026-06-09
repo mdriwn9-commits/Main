@@ -23,7 +23,7 @@ module.exports = {
 
 		api.setMessageReaction("⏳", event.messageID, (err) => {}, true);
 
-		const loadMsg = await message.reply("⏳𝙬𝙖𝙞𝙩 𝙗𝙗𝙮, 𝙮𝙤𝙪𝙧 𝙞𝙢𝙖𝙜𝙚 𝙞𝙨 𝙘𝙧𝙚𝙖𝙩𝙞𝙣𝙜. \n Author: 𝙍𝙖𝙠𝙞𝙗 𝘼𝙙𝙞𝙡") ;
+		const loadMsg = await message.reply("⏳𝙬𝙖𝙞𝙩 𝙗𝙗𝙮, 𝙮𝙤𝙪𝙧 𝙞𝙢𝙖𝙜𝙚 𝙞𝙨 𝙘𝙧𝙚𝙖𝙩𝙞𝙣𝙜. \n Author: 𝗥𝗨𝗗𝗥𝗢") ;
 
     try{
       
