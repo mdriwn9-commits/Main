@@ -61,7 +61,7 @@ module.exports = {
         `CPU    : ${cpuUsage}%`,
         `OS     : ${osText}`,
         `Date   : ${currentDate}`,
-        `Owner  : Mahbub Ullash`
+        `Owner  : Rudro`
       ];
 
       const lineColors = [
